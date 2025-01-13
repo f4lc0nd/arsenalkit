@@ -2,6 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import { motion } from "motion/react";
+import { ModeToggle } from "./toggle-theme";
 
 export default function Navbar() {
   return (
