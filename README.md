@@ -1,4 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ArsenalKit 🛡️🔍
+
+## Overview
+
+ArsenalKit is a modern, open-source web application designed for cybersecurity professionals and ethical hackers. It provides an intuitive, searchable catalog of penetration testing, reconnaissance, and vulnerability assessment tools across multiple cybersecurity phases.
+
+![ArsenalKit Preview](path/to/screenshot.png)
+
+## 🌟 Features
+
+- **Comprehensive Tool Database**: Curated collection of cybersecurity tools
+- **Dynamic Search & Filtering**: Easily find tools by name, description, or phase
+- **Responsive Dark-Themed UI**: Modern, sleek design optimized for readability
+- **Continuous Expansion**: Regularly updated tool collection
+
+## 🛠 Tech Stack
+
+- **Frontend**: Next.js 14
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Deployment**: Vercel
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or later)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/arsenalkit.gitThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+   ```
 
 ## Getting Started
 
