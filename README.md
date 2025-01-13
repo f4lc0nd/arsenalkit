@@ -4,7 +4,7 @@
 
 ArsenalKit is a modern, open-source web application designed for cybersecurity professionals and ethical hackers. It provides an intuitive, searchable catalog of penetration testing, reconnaissance, and vulnerability assessment tools across multiple cybersecurity phases.
 
-![ArsenalKit Preview](https://raw.githubusercontent.com/f4lc0nd/arsenalkit/refs/heads/main/public/ak.png)
+![ArsenalKit Preview](public/ak.png)
 
 ## 🌟 Features
 
