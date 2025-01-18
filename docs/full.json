@@ -1,0 +1,445 @@
+{
+  "phases": [
+    "All Tools",
+    "Reconnaissance",
+    "Scanning",
+    "Enumeration",
+    "Vulnerability",
+    "Intelligence",
+    "Osint"
+  ],
+  "tools": [
+    {
+      "name": "enum4linux-ng",
+      "description": "A next generation version of enum4linux",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=enum4linux-ng"
+    },
+    {
+      "name": "smbmap",
+      "description": "A handy SMB enumeration tool",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=smbmap"
+    },
+    {
+      "name": "subbrute",
+      "description": "A DNS meta-query spider",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=subbrute"
+    },
+    {
+      "name": "theHarvester",
+      "description": "E-mails, subdomains and names Harvester",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=theHarvester"
+    },
+    {
+      "name": "pydictor",
+      "description": "A powerful and smart dictionary generator",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=pydictor"
+    },
+    {
+      "name": "sqlmap",
+      "description": "Automatic SQL injection and database takeover tool",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=sqlmap"
+    },
+    {
+      "name": "theHarvester",
+      "description": "E-mails, subdomains and names Harvester",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=theHarvester"
+    },
+    {
+      "name": "wesng",
+      "description": "Windows Exploit Suggester Next Generation",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=wesng"
+    },
+    {
+      "name": "LinEnum",
+      "description": "Local Linux Enumeration & Privilege Escalation Checks",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=LinEnum"
+    },
+    {
+      "name": "virtual-reality",
+      "description": "A tool to create a virtual reality for red teaming",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=virtual-reality"
+    },
+    {
+      "name": "pwncat",
+      "description": "Netcat on steroids with a twist",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=pwncat"
+    },
+    {
+      "name": "PowerSploit",
+      "description": "A PowerShell Post-Exploitation Framework",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=PowerSploit"
+    },
+    {
+      "name": "ADRecon",
+      "description": "Active Directory Reconnaissance Tool",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=ADRecon"
+    },
+    {
+      "name": "SauronEye",
+      "description": "A tool to gather information about a target",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=SauronEye"
+    },
+    {
+      "name": "CMSeeK",
+      "description": "A multi-threaded CMS detection and exploitation tool",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=CMSeeK"
+    },
+    {
+      "name": "reGeorg",
+      "description": "A tunneling tool for HTTP and SOCKS",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=reGeorg"
+    },
+    {
+      "name": "ssf",
+      "description": "Secure Socket Funneling",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=ssf"
+    },
+    {
+      "name": "RedELK",
+      "description": "Red Team's SIEM",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=RedELK"
+    },
+    {
+      "name": "nikto",
+      "description": "A web server scanner",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=nikto"
+    },
+    {
+      "name": "pwnedOrNot",
+      "description": "A tool to check if a password has been pwned",
+      "phase": "Intelligence",
+      "url": "https://www.google.com/search?q=pwnedOrNot"
+    },
+    {
+      "name": "pwndb",
+      "description": "A tool to search for leaked credentials",
+      "phase": "Intelligence",
+      "url": "https://www.google.com/search?q=pwndb"
+    },
+    {
+      "name": "knockknock",
+      "description": "A tool to perform reverse DNS lookups",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=knockknock"
+    },
+    {
+      "name": "pupy",
+      "description": "A remote access tool",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=pupy"
+    },
+    {
+      "name": "wpscan",
+      "description": "A WordPress vulnerability scanner",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=wpscan"
+    },
+    {
+      "name": "unix-privesc-check",
+      "description": "A tool to check for privilege escalation vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=unix-privesc-check"
+    },
+    {
+      "name": "ADAPE-Script",
+      "description": "A tool to automate Active Directory enumeration",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=ADAPE-Script"
+    },
+    {
+      "name": "postenum",
+      "description": "A tool to enumerate and exploit post-enumeration vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=postenum"
+    },
+    {
+      "name": "Responder",
+      "description": "A tool to respond to LLMNR and NBT-NS requests",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Responder"
+    },
+    {
+      "name": "Rubeus",
+      "description": "A tool to interact with Kerberos",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Rubeus"
+    },
+    {
+      "name": "LaZagne",
+      "description": "A tool to retrieve passwords from various applications",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=LaZagne"
+    },
+    {
+      "name": "Empire",
+      "description": "A PowerShell and Python post-exploitation framework",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Empire"
+    },
+    {
+      "name": "WinPwn",
+      "description": "A tool to automate Windows exploitation",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=WinPwn"
+    },
+    {
+      "name": "SimplyEmail",
+      "description": "A tool to enumerate and exploit email services",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=SimplyEmail"
+    },
+    {
+      "name": "Salsa-tools",
+      "description": "A collection of tools for persistence",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Salsa-tools"
+    },
+    {
+      "name": "LOLBITS",
+      "description": "A tool to create a persistence framework",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=LOLBITS"
+    },
+    {
+      "name": "reGeorg",
+      "description": "A tunneling tool for HTTP and SOCKS",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=reGeorg"
+    },
+    {
+      "name": "PrivescCheck",
+      "description": "A tool to check for privilege escalation vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=PrivescCheck"
+    },
+    {
+      "name": "linux-exploit-suggester",
+      "description": "A tool to suggest potential exploits for Linux systems",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=linux-exploit-suggester"
+    },
+    {
+      "name": "GTFOBLookup",
+      "description": "A tool to search for GTFOBins",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=GTFOBLookup"
+    },
+    {
+      "name": "changeme",
+      "description": "A tool to find default credentials",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=changeme"
+    },
+    {
+      "name": "default-http-login-hunter",
+      "description": "A tool to find default HTTP login credentials",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=default-http-login-hunter"
+    },
+    {
+      "name": "EyeWitness",
+      "description": "A tool to take screenshots of web applications",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=EyeWitness"
+    },
+    {
+      "name": "TheFatRat",
+      "description": "A tool to create a persistence framework",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=TheFatRat"
+    },
+    {
+      "name": "CarbonCopy",
+      "description": "A tool to create a persistence framework",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=CarbonCopy"
+    },
+    {
+      "name": "CheckPlease",
+      "description": "A tool to check for sandbox evasion techniques",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=CheckPlease"
+    },
+    {
+      "name": "spoofing-office-macro",
+      "description": "A tool to create spoofed Office macros",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=spoofing-office-macro"
+    },
+    {
+      "name": "MaliciousMacroMSBuild",
+      "description": "A tool to create malicious macros",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=MaliciousMacroMSBuild"
+    },
+    {
+      "name": "EvilClippy",
+      "description": "A tool to create malicious Office documents",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=EvilClippy"
+    },
+    {
+      "name": "Mapping-Injection",
+      "description": "A tool to create malicious mappings",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Mapping-Injection"
+    },
+    {
+      "name": "SharpBlock",
+      "description": "A tool to create malicious DLLs",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=SharpBlock"
+    },
+    {
+      "name": "Ghost-In-The-Logs",
+      "description": "A tool to evade log detection",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Ghost-In-The-Logs"
+    },
+    {
+      "name": "exe_to_dll",
+      "description": "A tool to convert EXEs to DLLs",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=exe_to_dll"
+    },
+    {
+      "name": "kwetza",
+      "description": "A tool to interact with Android devices",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=kwetza"
+    },
+    {
+      "name": "domain_analyzer",
+      "description": "A tool to analyze domains",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=domain_analyzer"
+    },
+    {
+      "name": "PowerMeta",
+      "description": "A tool to extract metadata from documents",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=PowerMeta"
+    },
+    {
+      "name": "metagoofil",
+      "description": "A tool to extract metadata from documents",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=metagoofil"
+    },
+    {
+      "name": "NTLMRecon",
+      "description": "A tool to enumerate NTLM authentication",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=NTLMRecon"
+    },
+    {
+      "name": "snmpwn",
+      "description": "A tool to exploit SNMP vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=snmpwn"
+    },
+    {
+      "name": "xrdp",
+      "description": "A tool to interact with RDP and X11",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=xrdp"
+    },
+    {
+      "name": "PRETty",
+      "description": "A tool to exploit printer vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=PRETty"
+    },
+    {
+      "name": "msdat",
+      "description": "A tool to exploit MS SQL vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=msdat"
+    },
+    {
+      "name": "SPartan",
+      "description": "A tool to exploit SharePoint vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=SPartan"
+    },
+    {
+      "name": "Finger-User-Enumeration",
+      "description": "A tool to enumerate users via finger protocol",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=Finger-User-Enumeration"
+    },
+    {
+      "name": "mentalist",
+      "description": "A tool to generate wordlists",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=mentalist"
+    },
+    {
+      "name": "CeWL",
+      "description": "A tool to generate wordlists",
+      "phase": "Reconnaissance",
+      "url": "https://www.google.com/search?q=CeWL"
+    },
+    {
+      "name": "Password-Scripts",
+      "description": "A collection of password cracking scripts",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=Password-Scripts"
+    },
+    {
+      "name": "One-Lin3r",
+      "description": "A tool to create one-liners",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=One-Lin3r"
+    },
+    {
+      "name": "wfuzz",
+      "description": "A tool to perform web application fuzzing",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=wfuzz"
+    },
+    {
+      "name": "dirsearch",
+      "description": "A tool to discover directories",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=dirsearch"
+    },
+    {
+      "name": "SSRFmap",
+      "description": "A tool to exploit SSRF vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=SSRFmap"
+    },
+    {
+      "name": "BaRMIe",
+      "description": "A tool to exploit Java RMI vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=BaRMIe"
+    },
+    {
+      "name": "rmiscout",
+      "description": "A tool to exploit Java RMI vulnerabilities",
+      "phase": "Vulnerability",
+      "url": "https://www.google.com/search?q=rmiscout"
+    }
+  ]
+}
